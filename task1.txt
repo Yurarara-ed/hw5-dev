@@ -1,0 +1,13 @@
+# print your command here
+
+a. git init linuxhw
+
+b.
+
+c.
+
+d.
+
+e.
+
+f.
