@@ -8,6 +8,7 @@ c.	create .gitignore file and add "main" to it. git status (check files) git add
 
 d. Three new commits. Third commit with this text.
 
-e.
+e. git checkout "id of first commit" / git checkout -b cmake / git add . / git status / git commit -m "Create CMakeLists.txt" / git checkout master / git merge cmake
+after some changes in .gitignore file
 
-f.
+f. 
