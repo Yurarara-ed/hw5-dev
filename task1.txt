@@ -6,7 +6,7 @@ b. git status . "check files that should be commited" git add . "add bio.md / ma
 
 c.	create .gitignore file and add "main" to it. git status (check files) git add . (add all files instead of binary(main)) git commit -m "add Makefile"      
 
-d.
+d. Three new commits. Third commit with this text.
 
 e.
 
