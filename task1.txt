@@ -1,8 +1,8 @@
 # print your command here
 
-a. git init linuxhw
+a. git init linuxhw / git commit -m "Null commit"
 
-b.
+b. git status . "check files that should be commited" git add . "add bio.md / main.cpp / and task1.txt to commit" git commit -m "add bio.md and main.cpp"
 
 c.
 
